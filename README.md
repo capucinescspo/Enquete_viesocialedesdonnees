@@ -12,16 +12,16 @@ Le caractère annuel et l’ancienneté du Baromètre en font un outil de suivi 
 ## Questionnaire et thèmes abordés
 Le questionnaire comporte 8 modules thématiques. Pour chaque thème, le questionnement vise à connaitre les attentes et les préoccupations des Français, rendant compte de l’opinion sur le fonctionnement du système actuel et de potentielles reformes.
 La plupart des thématiques étant approfondies un an sur deux, certaines questions ne sont posées qu'en année paire ou en année impaire.
-Thèmes abordés
-Inégalités: inégalités de revenus, inégalités entre hommes et femmes, justice sociale, etc.
-Pauvreté, chômage et exclusion: évolution de la pauvreté, définition des personnes en risque d’exclusion, opinion sur le montant et l’efficacité du RSA et des allocations chômage, etc.
-Logement: résidence principale, critères d’attribution des logements sociaux.
-Protection sociale: financement de la protection sociale, ciblage des prestations sur les plus modestes ou les seuls cotisants, etc.
-Retraite: âge de départ anticipé et souhaité, niveau de vie des retraités, réformes souhaitées pour préserver le système de retraite, etc.
-Santé: perception de l’état de santé de la population, qualité et accès aux soins, risque sanitaire, inégalités de santé, réformes souhaitées, etc.
-Famille: objectif que doit poursuivre la politique familiale, durée du congé maternité, mode de garde privilégié pour les enfants en bas âge, etc.
-Dépendance et handicap: effort de la société envers les personnes handicapées, création d’une cotisation obligatoire pour aider financièrement les personnes dépendantes, statut des aidants, etc.
-Cohésion sociale: sentiment d’être intégré à la société, perception du niveau de cohésion sociale et des mesures à mettre en oeuvre pour la renforcer.
+Thèmes abordés : 
+- Inégalités: inégalités de revenus, inégalités entre hommes et femmes, justice sociale, etc.
+- **Pauvreté, chômage et exclusion**: évolution de la pauvreté, définition des personnes en risque d’exclusion, opinion sur le montant et l’efficacité du RSA et des allocations chômage, etc.
+- Logement: résidence principale, critères d’attribution des logements sociaux.
+- Protection sociale: financement de la protection sociale, ciblage des prestations sur les plus modestes ou les seuls cotisants, etc.
+- Retraite: âge de départ anticipé et souhaité, niveau de vie des retraités, réformes souhaitées pour préserver le système de retraite, etc.
+- Santé: perception de l’état de santé de la population, qualité et accès aux soins, risque sanitaire, inégalités de santé, réformes souhaitées, etc.
+- Famille: objectif que doit poursuivre la politique familiale, durée du congé maternité, mode de garde privilégié pour les enfants en bas âge, etc.
+- Dépendance et handicap: effort de la société envers les personnes handicapées, création d’une cotisation obligatoire pour aider financièrement les personnes dépendantes, statut des aidants, etc.
+- Cohésion sociale: sentiment d’être intégré à la société, perception du niveau de cohésion sociale et des mesures à mettre en oeuvre pour la renforcer.
 
 
 ## Édition 2020 du Baromètre et sa construction de l’échantillon
