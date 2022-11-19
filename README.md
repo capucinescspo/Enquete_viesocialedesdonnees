@@ -39,4 +39,4 @@ Parmi touts les thèmes abordé pour le Baromètre, nous avons choisi de nous co
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/agreement.png?raw=true)
 
-ENCADRÉ
+| Tables | Are | Cool | |----------|:-------------:|------:| | col 1 is| left-aligned | $1600 |
