@@ -37,4 +37,4 @@ Bien qu’il soit difficile d’évaluer précisément les conséquences du cont
 
 Parmi touts les thèmes abordé pour le Baromètre, nous avons choisi de nous concentrer sur des enseignements présentés dans un article, mis en avant par la DREES qui nous livre différentes conclusions obtenues après l'analyse de la base de données obtenue.
 
-https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/agreement.png
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/agreement.png?raw=true)
