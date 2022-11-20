@@ -39,5 +39,5 @@ Parmi touts les thèmes abordé pour le Baromètre, nous avons choisi de nous co
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW1.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW2.png?raw=true)
-![alt tag](
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW3.png?raw=true)
 
