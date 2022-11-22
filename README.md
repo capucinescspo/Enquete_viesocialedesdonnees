@@ -31,7 +31,7 @@ Ce baromètre se distingue de l’indicateur de pauvreté relative en **“défi
 Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes perçoivent une dégradation de leur situation sur de multiples aspects. Une stabilité face à la pauvreté et au chômage, mais une inquiétude croissante envers l’avenir. Un sentiment de déclassement intergénérationnel marqué pour les jeunes et les indépendants. Plusieurs graphiques indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
 
-## Entretion avec la DRESS
+## Entretion avec la DREES
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW1.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW2.png?raw=true)
