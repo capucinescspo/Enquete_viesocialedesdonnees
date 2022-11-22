@@ -1,5 +1,7 @@
 # Enquete sur le Baromètre de la DREES - Chapitre pauvreté et exclusion
 
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Sans%20titre.png?raw=true)
+
 ## Introduction
 
 Le Baromètre d’opinion de la DREES (Direction de la Recherche, des Études, de l’Évaluation et des Statistiques) suit chaque année depuis 2000, l’évolution de l’opinion des Français à l’égard de la santé, de la protection sociale et des inégalités sociales. Depuis 2014, il intègre un module portant sur la cohésion sociale, analysé en collaboration avec la DGCS (Direction Générale de la Cohésion Sociale).
@@ -36,6 +38,8 @@ Bien qu’il soit difficile d’évaluer précisément les conséquences du cont
 ## Analyse des résultats du baromètre 2020 dans le document `Un sentiment de pauvreté en hausse chez les jeunes adultes fin 2020´
 
 Parmi touts les thèmes abordé pour le Baromètre, nous avons choisi de nous concentrer sur des enseignements présentés dans un article, mis en avant par la DREES qui nous livre différentes conclusions obtenues après l'analyse de la base de données obtenue.
+
+## Entretion avec la DRESS
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW1.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW2.png?raw=true)
