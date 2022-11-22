@@ -9,7 +9,7 @@ La base de données choisie provient du Baromètre d'opinion de la DREES (Direct
 ## A quoi sert le Baromètre ?
 Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
 
-Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : [link text](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
+Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : [https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
 
 **Nous trouvons pertinent d’analyser cet article et les conclusions proposées, par rapport au contenu initial de la base de données.**
 
