@@ -6,7 +6,7 @@
 
 La base de données choisie provient du Baromètre d'opinion de la DREES (Direction de la recherche, des études, de l'évaluation et des statistiques) pour l’année 2020. Ce baromètre d’opinion existe depuis 2000 et sonde les français sur différentes thématiques des inégalités, de la santé et de la protection sociale (maladie, famille, handicap, solidarité). 
 
-## A quoi sert le Baromètre?
+## A quoi sert le Baromètre ?
 Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
 
 Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf
