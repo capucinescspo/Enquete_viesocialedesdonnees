@@ -9,7 +9,7 @@ La base de données choisie provient du Baromètre d'opinion de la DREES (Direct
 ## A quoi sert le Baromètre ?
 Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
 
-Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf
+Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : [link text](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
 
 **Nous trouvons pertinent d’analyser cet article et les conclusions proposées, par rapport au contenu initial de la base de données.**
 
@@ -34,7 +34,7 @@ Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur si
 
 Il est intéressant de s’interroger sur la méthodologie employée pour parvenir aux conclusions présentées dans l’article. Ainsi, nous sommes partis de la base de données pour retracer la réflexion qui a mené aux conclusions finales générales. Plusieurs points en sont sortis : 
 
-Le premier point débattu est la pertinence des données : Comment les questions ont été choisies ? La répétition des mêmes questions d’une année à l’autre ne constitue-t-elle pas un obstacle à la représentativité des situations ? En effet, pour un indicateur qui se veut fiable, on comprend une nécessaire continuité, or celle-ci semble ne pas laisser place à des impacts conjoncturels possibles. Par ailleurs, certaines questions semblent porter un jugement non-exploitable dans l’article final tel que “Trouveriez-vous normal qu’on demande aux personnes qui touchent des allocations chômage… » ou encore « Si des personnes se trouvent en situation d’exclusion ou de pauvreté, c’est parce qu’elles ne veulent pas travailler ? Manquent de qualifications ? … »
+Le premier point débattu est la pertinence des données : Comment les questions ont été choisies ? La répétition des mêmes questions d’une année à l’autre ne constitue-t-elle pas un obstacle à la représentativité des situations ? En effet, pour un indicateur qui se veut fiable, on comprend une nécessaire continuité, or celle-ci semble ne pas laisser place à des impacts conjoncturels possibles. Par ailleurs, certaines questions semblent porter un jugement non-exploitable dans l’article final tel que « Trouveriez-vous normal qu’on demande aux personnes qui touchent des allocations chômage… » ou encore « Si des personnes se trouvent en situation d’exclusion ou de pauvreté, c’est parce qu’elles ne veulent pas travailler ? Manquent de qualifications ? … »
 
 Une deuxième limite, étroitement liée au choix et à la formulation des questions, est leurs aspects strictement économiques. En effet, pour un indicateur censé venir apporter une complémentarité aux outils existants, en donnant une dimension qualitative, de “ressenti”, de “perception de la pauvreté", de nombreuses questions reposent sur des données strictement financières, les questions sont surprenantes. 	Ainsi, une majorité de questions portent sur des indicateurs très précis : 
 - augmentation ou non du RSA, 
