@@ -23,8 +23,7 @@ En 2020, l’enquête s’est déroulée du 19 octobre 2020 au 4 janvier 2021, c
 Bien qu’il soit difficile d’évaluer précisément les conséquences du contexte sanitaire sur le déroulement de l’enquête, les enquêteurs n’ont pas signalé de difficulté particulière sur le terrain, hormis des contretemps plus importants pour l’obtention des rendez-vous à l’approche des fêtes de fin d’année.
 
 Ce baromètre se distingue de l’indicateur de pauvreté relative en **“définissant la pauvreté par la manière dont elle est perçue, notamment socialement, par les interrogés."** 
-
-![alttag(https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Entretien%20avec%20Claudine%20Pirus,%20chercheuse%20à%20la%20DREES.png?raw=true)
+![alt tag](
 
 ## Analyse des résultats du baromètre 2020 dans le document `Un sentiment de pauvreté en hausse chez les jeunes adultes fin 2020´
 
