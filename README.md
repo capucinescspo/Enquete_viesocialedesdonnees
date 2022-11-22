@@ -24,6 +24,7 @@ Bien qu’il soit difficile d’évaluer précisément les conséquences du cont
 
 Ce baromètre se distingue de l’indicateur de pauvreté relative en **“définissant la pauvreté par la manière dont elle est perçue, notamment socialement, par les interrogés."** 
 
+![alttag(https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Entretien%20avec%20Claudine%20Pirus,%20chercheuse%20à%20la%20DREES.png?raw=true)
 
 ## Analyse des résultats du baromètre 2020 dans le document `Un sentiment de pauvreté en hausse chez les jeunes adultes fin 2020´
 
