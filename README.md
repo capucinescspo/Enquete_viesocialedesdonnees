@@ -36,6 +36,8 @@ Il est intéressant de s’interroger sur la méthodologie employée pour parven
 
 Le premier point débattu est la pertinence des données : Comment les questions ont été choisies ? La répétition des mêmes questions d’une année à l’autre ne constitue-t-elle pas un obstacle à la représentativité des situations ? En effet, pour un indicateur qui se veut fiable, on comprend une nécessaire continuité, or celle-ci semble ne pas laisser place à des impacts conjoncturels possibles. Par ailleurs, certaines questions semblent porter un jugement non-exploitable dans l’article final tel que « Trouveriez-vous normal qu’on demande aux personnes qui touchent des allocations chômage… » ou encore « Si des personnes se trouvent en situation d’exclusion ou de pauvreté, c’est parce qu’elles ne veulent pas travailler ? Manquent de qualifications ? … ». La question PE6_CD_3 illustre parfaitement notre remarque : 
 
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE6_CD_3.png?raw=true)
+
 Une deuxième limite, étroitement liée au choix et à la formulation des questions, est leurs aspects strictement économiques. En effet, pour un indicateur censé venir apporter une complémentarité aux outils existants, en donnant une dimension qualitative, de “ressenti”, de “perception de la pauvreté", de nombreuses questions reposent sur des données strictement financières, les questions sont surprenantes. 	Ainsi, une majorité de questions portent sur des indicateurs très précis : 
 - augmentation ou non du RSA, 
 - allocations chômage, 
