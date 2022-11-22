@@ -30,6 +30,23 @@ Ce baromètre se distingue de l’indicateur de pauvreté relative en **“défi
 Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes perçoivent une dégradation de leur situation sur de multiples aspects. Une stabilité face à la pauvreté et au chômage, mais une inquiétude croissante envers l’avenir. Un sentiment de déclassement intergénérationnel marqué pour les jeunes et les indépendants. Plusieurs graphiques indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
 
+## Critiques sur la collecte des données
+
+Il est intéressant de s’interroger sur la méthodologie employée pour parvenir aux conclusions présentées dans l’article. Ainsi, nous sommes partis de la base de données pour retracer la réflexion qui a mené aux conclusions finales générales. Plusieurs points en sont sortis : 
+
+Le premier point débattu est la pertinence des données : Comment les questions ont été choisies ? La répétition des mêmes questions d’une année à l’autre ne constitue-t-elle pas un obstacle à la représentativité des situations ? En effet, pour un indicateur qui se veut fiable, on comprend une nécessaire continuité, or celle-ci semble ne pas laisser place à des impacts conjoncturels possibles. Par ailleurs, certaines questions semblent porter un jugement non-exploitable dans l’article final tel que “Trouveriez-vous normal qu’on demande aux personnes qui touchent des allocations chômage… » ou encore « Si des personnes se trouvent en situation d’exclusion ou de pauvreté, c’est parce qu’elles ne veulent pas travailler ? Manquent de qualifications ? … »
+
+Une deuxième limite, étroitement liée au choix et à la formulation des questions, est leurs aspects strictement économiques. En effet, pour un indicateur censé venir apporter une complémentarité aux outils existants, en donnant une dimension qualitative, de “ressenti”, de “perception de la pauvreté", de nombreuses questions reposent sur des données strictement financières, les questions sont surprenantes. 	Ainsi, une majorité de questions portent sur des indicateurs très précis : 
+- augmentation ou non du RSA, 
+- allocations chômage, 
+- montant du SMIC,...
+
+Ces interrogations impliquent une certaine culture financière (notamment chez des jeunes surreprésentés dans l’article) pour y répondre de manière précise et représentative.
+
+Enfin, de manière plus générale, les questions portent sur un champ très ciblé, et seules quelques questions sont ouvertes et concernent les individus personnellement (telle que “pourriez vous faire face à une dépense imprévue de 500€ demain?”, expliquant les conclusions sur la « perception » de la pauvreté. L’essence même du baromètre étant de s’éloigner des considérations strictement économiques des indicateurs existants, pour percevoir l’aspect social de la pauvreté, celui-ci paraît surreprésenté dans l’article par rapport aux questions qui y sont réellement liées.
+
+
+
 ## Entretion avec la DREES
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw1ok.png?raw=true)
