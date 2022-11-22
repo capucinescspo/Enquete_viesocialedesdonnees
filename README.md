@@ -33,6 +33,6 @@ Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur si
 ## Entretion avec la DREES
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw1ok.png?raw=true)
-![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW2.png?raw=true)
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw2ok.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/ITW3.png?raw=true)
 
