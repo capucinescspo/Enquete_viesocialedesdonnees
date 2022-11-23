@@ -51,6 +51,8 @@ Enfin, de manière plus générale, les questions portent sur un champ très cib
 
 Le travail des chercheurs est de transcrire de ce questionnaire de plus de 120 questions des résultats lisibles et pertinents. Cela nous  amène d’emblée à nous questionner sur l’utilisation de l’article : à qui est-il destiné ? doit-il amener à certaines conclusions plus qu’à d’autres? A travers quel prisme? (Envisagée comme une enquête d’opinion pour l’acceptabilité d’une politique publique par exemple). Il semblerait que la DREES soit le principal destinataire et utilisateur de ces données, point que nous allons soulever dans un entretien avec une chercheuse. Par ailleurs, nous avons été particulièrement étonnés du caractère généralisant de l’article dont les conclusions semblent à grande portée, et représentative de l’ensemble de la population. L’échantillon reste de 4 000 personnes. En particulier, les jeunes semblent surreprésentés dans l’article, alors qu’il reste une part relative du questionnaire, et ne sont pas un public ciblé pour les questions qui les concernent. Or, l’article semble mettre en avant une prépondérance de la vulnérabilité des plus jeunes et de leur perception de déclassement et de pauvreté. 
 
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Graphdeclassement.png?raw=true)
+
 S’il est pertinent de déduire un ressenti particulier chez les jeunes de par leurs réponses alignées au sein d’un échantillon établi selon la méthode des quotas, nous avons jugé intéressant de regarder quelles questions les concernent réellement. 1 seule question porte sur les jeunes de 18 à 29 ans:
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE4_AB_1.png?raw=true)
