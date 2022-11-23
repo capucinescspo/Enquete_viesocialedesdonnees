@@ -1,6 +1,6 @@
 # Enquete sur le Baromètre de la DREES - Chapitre pauvreté et exclusion
 
-![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Capture%20d’écran%202022-11-23%20à%2015.49.00.png?raw=true)
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Visuelpauvreté.png?raw=true)
 
 ## Introduction
 
