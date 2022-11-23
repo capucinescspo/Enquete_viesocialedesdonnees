@@ -81,3 +81,5 @@ C’est donc dans l’optique de confronter notre analyse critique à l’expert
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw1ok.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw2ok.png?raw=true)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/itw3ok.png?raw=true)
+
+Enquête menée par Eva Lecomte, Felipe Lopez de Aréchaga & Capucine Ulian
