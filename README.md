@@ -11,7 +11,7 @@ La base de données choisie provient du Baromètre d'opinion de la DREES (Direct
 - Protection sociale : financement de la protection sociale, ciblage des prestations sur les plus modestes ou les seuls cotisants, etc.
 
 ## A quoi sert le Baromètre ?
-Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
+Cet outils permet d'appréhender l’évolution de l’opinion des Français sur les politiques dont les ministères ont la charge, tant en matière de santé que de solidarité. 
 
 Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article : [https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
 
@@ -31,13 +31,13 @@ Ce baromètre se distingue de l’indicateur de pauvreté relative en **“défi
 
 ## Analyse des résultats du baromètre 2020 dans le document `Un sentiment de pauvreté en hausse chez les jeunes adultes fin 2020´
 
-Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes perçoivent : 
+Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes ressentent : 
 - une dégradation de leur situation sur de multiples aspect,
-- une stabilité face à la pauvreté et au chômage, 
+- une préoccupation stable face à la pauvreté et au chômage, 
 - une inquiétude croissante envers l’avenir, 
-- Un sentiment de déclassement intergénérationnel marqué pour les jeunes et les indépendants. 
+- un sentiment de déclassement intergénérationnel marqué. 
 
-Plusieurs graphiques indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
+Plusieurs graphiques dans l'article indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
 
 ## Critiques sur la collecte des données
