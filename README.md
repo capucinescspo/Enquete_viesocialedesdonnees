@@ -65,6 +65,8 @@ A contrario, la tendance générale d’inquiétude croissante face à l’aveni
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE18_CD.png?raw=true)
 
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE2.png?raw=true)
+
 Ainsi, nous pouvons voir que certaines des grandes tendances dégagées par l’article semblent s'éloigner de la réaction du sondage, à l’exception de certains points. Par ailleurs, le graphe final indiqué dans l’article prouve bien qu’il s’agit d’un exercice d'interprétation et de classification des répondants pour faire parler des chiffres “forts”.En effet, une nouvelle lecture est proposée aux prisme des CSP, du niveau de vie, ou encore du risque perçu, autant d'interprétations possibles que de catégories de répondants.
 
 ![alt tag](
