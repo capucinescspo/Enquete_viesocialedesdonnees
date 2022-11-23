@@ -4,7 +4,11 @@
 
 ## Introduction
 
-La base de données choisie provient du Baromètre d'opinion de la DREES (Direction de la recherche, des études, de l'évaluation et des statistiques) pour l’année 2020. Ce baromètre d’opinion existe depuis 2000 et sonde les français sur différentes thématiques des inégalités, de la santé et de la protection sociale (maladie, famille, handicap, solidarité). 
+La base de données choisie provient du Baromètre d'opinion de la DREES (Direction de la recherche, des études, de l'évaluation et des statistiques) pour l’année 2020. Ce baromètre d’opinion existe depuis 2000 et sonde les français sur différentes thématiques : 
+- Inégalités : inégalités de revenus, inégalités entre hommes et femmes, justice sociale, etc.
+- ** Pauvreté, chômage et exclusion **: évolution de la pauvreté, définition des personnes en risque d’exclusion, opinion sur le montant et l’efficacité du RSA et des allocations chômage, etc.
+- Logement : résidence principale, critères d’attribution des logements sociaux.
+- Protection sociale : financement de la protection sociale, ciblage des prestations sur les plus modestes ou les seuls cotisants, etc.
 
 ## A quoi sert le Baromètre ?
 Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
