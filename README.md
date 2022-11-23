@@ -47,6 +47,29 @@ Ces interrogations impliquent une certaine culture financière (notamment chez d
 
 Enfin, de manière plus générale, les questions portent sur un champ très ciblé, et seules quelques questions sont ouvertes et concernent les individus personnellement (telle que “pourriez vous faire face à une dépense imprévue de 500€ demain?”, expliquant les conclusions sur la « perception » de la pauvreté. L’essence même du baromètre étant de s’éloigner des considérations strictement économiques des indicateurs existants, pour percevoir l’aspect social de la pauvreté, celui-ci paraît surreprésenté dans l’article par rapport aux questions qui y sont réellement liées.
 
+## Interprétation et exploitation des données
+
+Le travail des chercheurs est de transcrire de ce questionnaire de plus de 120 questions des résultats lisibles et pertinents. Cela nous  amène d’emblée à nous questionner sur l’utilisation de l’article : à qui est-il destiné ? doit-il amener à certaines conclusions plus qu’à d’autres? A travers quel prisme? (Envisagée comme une enquête d’opinion pour l’acceptabilité d’une politique publique par exemple). Il semblerait que la DREES soit le principal destinataire et utilisateur de ces données, point que nous allons soulever dans un entretien avec une chercheuse. Par ailleurs, nous avons été particulièrement étonnés du caractère généralisant de l’article dont les conclusions semblent à grande portée, et représentative de l’ensemble de la population. L’échantillon reste de 4 000 personnes. En particulier, les jeunes semblent surreprésentés dans l’article, alors qu’il reste une part relative du questionnaire, et ne sont pas un public ciblé pour les questions qui les concernent. Or, l’article semble mettre en avant une prépondérance de la vulnérabilité des plus jeunes et de leur perception de déclassement et de pauvreté. 
+
+S’il est pertinent de déduire un ressenti particulier chez les jeunes de par leurs réponses alignées au sein d’un échantillon établi selon la méthode des quotas, nous avons jugé intéressant de regarder quelles questions les concernent réellement. 1 seule question porte sur les jeunes de 18 à 29 ans:
+
+![alt tag](
+
+De la même manière, face à la précision des questions, nous avons cherché à comprendre d’où provenait la “situation mauvaise actuelle” et ce qui était impliqué derrière ce terme. Là encore, seule une question semble y faire précisément allusion (question PE15_AB):
+
+![alt tag](
+
+La vaste majorité des questions portent réellement sur des connaissances du montant des aides disponibles (allocations, RSA, SMIC…), et ne permettent pas d’en déduire selon les réponses une situation “mauvaise”. 
+
+A contrario, la tendance générale d’inquiétude croissante face à l’avenir, soulignée par l’article, semble soutenue par une variété de questions permettant de sonder ce sentiment “d’inquiétude”, très qualitatif et peu quantifiable par des indicateurs économiques. Cependant, il aurait été intéressant de voir si cette inquiétude croissante était liée au Covid-19, ou non. L’addition de “depuis la crise du Covid” permet dans une certaine mesure de mesurer un potentiel écart de réponses, mais il serait intéressant de pousser la réflexion plus loin et d’observer si ces réponses retournent à la “normale” dans le baromètre 2021, ou s’il permet de constater des effets de long-termes sur l’inquiétude des gens post-covid. Ainsi, les questions ci-dessous illustrent la mesure de l’inquiétude croissante relevée sur des situations individuelles ou des ressentis généraux sur la pauvreté et l’exclusion:
+
+![alt tag](
+
+Ainsi, nous pouvons voir que certaines des grandes tendances dégagées par l’article semblent s'éloigner de la réaction du sondage, à l’exception de certains points. Par ailleurs, le graphe final indiqué dans l’article prouve bien qu’il s’agit d’un exercice d'interprétation et de classification des répondants pour faire parler des chiffres “forts”.En effet, une nouvelle lecture est proposée aux prisme des CSP, du niveau de vie, ou encore du risque perçu, autant d'interprétations possibles que de catégories de répondants.
+
+![alt tag](
+
+C’est donc dans l’optique de confronter notre analyse critique à l’expertise du questionnaire, que nous avons échangé avec Mme Claudine Pirus, chercheuse à la DREES, ayant rédigé un des 3 articles découlant du baromètre 2020. 
 
 
 ## Entretion avec la DREES
