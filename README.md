@@ -6,7 +6,7 @@
 
 La base de données choisie provient du Baromètre d'opinion de la DREES (Direction de la recherche, des études, de l'évaluation et des statistiques) pour l’année 2020. Ce baromètre d’opinion existe depuis 2000 et sonde les français sur différentes thématiques : 
 - Inégalités : inégalités de revenus, inégalités entre hommes et femmes, justice sociale, etc.
-- ** Pauvreté, chômage et exclusion **: évolution de la pauvreté, définition des personnes en risque d’exclusion, opinion sur le montant et l’efficacité du RSA et des allocations chômage, etc.
+- **Pauvreté, chômage et exclusion**: évolution de la pauvreté, définition des personnes en risque d’exclusion, opinion sur le montant et l’efficacité du RSA et des allocations chômage, etc.
 - Logement : résidence principale, critères d’attribution des logements sociaux.
 - Protection sociale : financement de la protection sociale, ciblage des prestations sur les plus modestes ou les seuls cotisants, etc.
 
@@ -31,7 +31,13 @@ Ce baromètre se distingue de l’indicateur de pauvreté relative en **“défi
 
 ## Analyse des résultats du baromètre 2020 dans le document `Un sentiment de pauvreté en hausse chez les jeunes adultes fin 2020´
 
-Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes perçoivent une dégradation de leur situation sur de multiples aspects. Une stabilité face à la pauvreté et au chômage, mais une inquiétude croissante envers l’avenir. Un sentiment de déclassement intergénérationnel marqué pour les jeunes et les indépendants. Plusieurs graphiques indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
+Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur situation globalement mauvaise s’accroît, notamment parmi les travailleurs indépendants, les jeunes adultes et dans les agglomérations de plus de 100 000 habitants. Les jeunes perçoivent : 
+- une dégradation de leur situation sur de multiples aspect,
+- une stabilité face à la pauvreté et au chômage, 
+- une inquiétude croissante envers l’avenir. 
+- Un sentiment de déclassement intergénérationnel marqué pour les jeunes et les indépendants. 
+
+Plusieurs graphiques indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
 
 ## Critiques sur la collecte des données
