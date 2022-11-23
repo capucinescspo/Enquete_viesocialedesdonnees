@@ -9,7 +9,7 @@ La base de données choisie provient du Baromètre d'opinion de la DREES (Direct
 ## A quoi sert le Baromètre ?
 Appréhender l’évolution de l’opinion des Français sur les politiques dont le ministère a la charge, tant en matière de santé que de solidarité. 
 
-Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article, mis en avant par la DREES : [https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
+Parmi ces thèmes, nous avons choisi de nous concentrer sur la **pauvreté et l’exclusion**. La base de données est traitée pour en tirer des enseignements présentés dans un article : [https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf](https://drees.solidarites-sante.gouv.fr/sites/default/files/2021-06/ER1195.pdf)
 
 **Nous trouvons pertinent d’analyser cet article et les conclusions proposées, par rapport au contenu initial de la base de données.**
 
@@ -53,7 +53,7 @@ Le travail des chercheurs est de transcrire de ce questionnaire de plus de 120 q
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Graphdeclassement.png?raw=true)
 
-S’il est pertinent de déduire un ressenti particulier chez les jeunes de par leurs réponses alignées au sein d’un échantillon établi selon la méthode des quotas, nous avons jugé intéressant de regarder quelles questions les concernent réellement. 1 seule question porte sur les jeunes de 18 à 29 ans:
+S’il est pertinent de déduire un ressenti particulier chez les jeunes de par leurs réponses alignées au sein d’un échantillon établi selon la méthode des quotas, nous avons jugé intéressant de regarder quelles questions les concernent réellement. Une seule question porte sur les jeunes de 18 à 29 ans:
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE4_AB_1.png?raw=true)
 
