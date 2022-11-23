@@ -57,7 +57,7 @@ S’il est pertinent de déduire un ressenti particulier chez les jeunes de par 
 
 De la même manière, face à la précision des questions, nous avons cherché à comprendre d’où provenait la “situation mauvaise actuelle” et ce qui était impliqué derrière ce terme. Là encore, seule une question semble y faire précisément allusion (question PE15_AB):
 
-![alt tag](
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE15_AB.png?raw=true)
 
 La vaste majorité des questions portent réellement sur des connaissances du montant des aides disponibles (allocations, RSA, SMIC…), et ne permettent pas d’en déduire selon les réponses une situation “mauvaise”. 
 
