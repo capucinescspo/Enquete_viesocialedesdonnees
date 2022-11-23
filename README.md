@@ -53,7 +53,7 @@ Le travail des chercheurs est de transcrire de ce questionnaire de plus de 120 q
 
 S’il est pertinent de déduire un ressenti particulier chez les jeunes de par leurs réponses alignées au sein d’un échantillon établi selon la méthode des quotas, nous avons jugé intéressant de regarder quelles questions les concernent réellement. 1 seule question porte sur les jeunes de 18 à 29 ans:
 
-![alt tag](
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/PE4_AB_1.png?raw=true)
 
 De la même manière, face à la précision des questions, nous avons cherché à comprendre d’où provenait la “situation mauvaise actuelle” et ce qui était impliqué derrière ce terme. Là encore, seule une question semble y faire précisément allusion (question PE15_AB):
 
