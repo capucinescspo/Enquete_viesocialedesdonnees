@@ -39,7 +39,7 @@ Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur si
 
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Inquietude_leger.png?raw=true)
 
-![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/inquiétudesbisleger.png?raw=true)
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/inquietudesbisleger.png?raw=true)
 
 Plusieurs graphiques dans l'article indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
