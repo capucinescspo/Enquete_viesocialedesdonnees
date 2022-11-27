@@ -37,7 +37,7 @@ Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur si
 - une inquiétude croissante envers l’avenir, 
 - un sentiment de déclassement intergénérationnel marqué. 
 
-![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Capture%20d’écran%202022-11-27%20à%2020.27.09.png?raw=true)
+![alt tag](Inégalités Pauvreté.png)
 ![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Inquiétude%20envers%20l'avenir.png?raw=true)
 
 Plusieurs graphiques dans l'article indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
