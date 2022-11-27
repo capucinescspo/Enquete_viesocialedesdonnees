@@ -37,6 +37,9 @@ Dans le contexte de la crise sanitaire, la part des personnes qui jugent leur si
 - une inquiétude croissante envers l’avenir, 
 - un sentiment de déclassement intergénérationnel marqué. 
 
+![alt tag](https://github.com/capucinescspo/Enquete_viesocialedesdonnees/blob/main/Inégalités%20Pauvreté.png?raw=true)
+![alt tag](
+
 Plusieurs graphiques dans l'article indiquent différentes situations : pauvreté et risques perçus selon l’âge, la CSP, le niveau de vie, impact de la crise sanitaire d’un point de vue financier, ou encore, sentiment de vulnérabilité face au chômage. 
 
 Les données sont présentées de manière exhaustive en datavisualisation à cette adresse : [https://odin.sante.gouv.fr/dataviz_drees/?defaultPage=Baromètre_d_opinion_Baromètre_d_opinion&user=dataviz_sante&pass=dataviz_sante#6](https://odin.sante.gouv.fr/dataviz_drees/?defaultPage=Baromètre_d_opinion_Baromètre_d_opinion&user=dataviz_sante&pass=dataviz_sante#6). Nous avons donc fait le choix de ne pas présenter les données du baromètre mais de nous concentrer sur les critiques de celles-ci. 
